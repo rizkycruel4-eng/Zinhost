@@ -1,0 +1,42 @@
+{
+  "name": "Zinhost",
+  "verified": true,
+  "headline": "Jasa joki dan layanan digital, dikerjakan cepat dan rapi",
+  "tagline": "Pilih paket, buat pesanan, lalu pantau statusnya kapan saja.",
+  "description": "Order jasa joki dan layanan digital online, dengan cek status pesanan.",
+  "whatsapp": "6281234567890",
+  "qris": "",
+  "colors": {
+    "bg": "#14201e",
+    "panel": "#1d2e2a",
+    "accent": "#6ee0b0"
+  },
+  "highlights": [
+    { "title": "Order lewat WhatsApp", "text": "Pesananmu langsung masuk ke admin lengkap dengan ID pesanan." },
+    { "title": "Cek status mandiri", "text": "Masukkan ID pesanan di halaman Cek pesanan untuk melihat progresnya." },
+    { "title": "Harga jelas", "text": "Semua paket dan harga tertera sebelum kamu memesan." }
+  ],
+  "about": [
+    "Zinhost menyediakan jasa joki dan layanan digital dengan proses yang jelas dari order sampai selesai.",
+    "Ada pertanyaan sebelum memesan? Hubungi admin lewat WhatsApp."
+  ],
+  "categories": [
+    {
+      "title": "Joki Kontak",
+      "desc": "Pengerjaan kontak sesuai paket yang kamu pilih.",
+      "packages": [
+        { "name": "Paket Hemat", "note": "Contoh: 100 kontak", "price": "Rp 10.000" },
+        { "name": "Paket Standar", "note": "Contoh: 300 kontak", "price": "Rp 25.000" },
+        { "name": "Paket Besar", "note": "Contoh: 1.000 kontak", "price": "Rp 75.000" }
+      ]
+    },
+    {
+      "title": "Jasa Post Akun",
+      "desc": "Posting akun dikerjakan oleh admin sesuai jadwal.",
+      "packages": [
+        { "name": "1 Hari", "note": "Contoh: 5 postingan", "price": "Rp 5.000" },
+        { "name": "7 Hari", "note": "Contoh: 35 postingan", "price": "Rp 30.000" }
+      ]
+    }
+  ]
+}
