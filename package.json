@@ -1,0 +1,9 @@
+{
+  "name": "website-generator",
+  "version": "1.0.0",
+  "description": "Generator website HTML, CSS, JavaScript, Node.js",
+  "scripts": {
+    "generate": "node generator.js",
+    "generate:server": "node generator.js --server --out app"
+  }
+}
